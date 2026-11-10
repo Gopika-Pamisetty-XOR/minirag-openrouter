@@ -1,0 +1,7 @@
+[
+  "pyATS is an automated testing framework developed by Cisco for network engineering.",
+  "Genie is a Python library built on top of pyATS that parses CLI outputs into structured data.",
+  "FAISS is a library for efficient similarity search and clustering of dense vectors.",
+  "Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.",
+  "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications."
+]

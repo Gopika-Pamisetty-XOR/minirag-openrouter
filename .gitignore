@@ -1,0 +1,4 @@
+.env
+faiss_index.bin
+__pycache__/
+rag_env/
